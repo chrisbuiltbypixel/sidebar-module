@@ -1,0 +1,13 @@
+{
+    "name": "Sidebar",
+    "alias": "sidebar",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Sidebar\\Providers\\SidebarServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
